@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 7b4d1bf7f99076344b6c161bb3bea60f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2817392271884765205
+    second: Shokcer Ejector 64x16_0
+  - first:
+      213: 7235701085537942048
+    second: Shokcer Ejector 64x16_1
+  - first:
+      213: -5833192840245476361
+    second: Shokcer Ejector 64x16_2
+  - first:
+      213: -4637072210010269074
+    second: Shokcer Ejector 64x16_3
+  - first:
+      213: 617507425593595569
+    second: Shokcer Ejector 64x16_4
+  - first:
+      213: -3782327294373210901
+    second: Shokcer Ejector 64x16_5
+  - first:
+      213: 9029905522214810614
+    second: Shokcer Ejector 64x16_6
+  - first:
+      213: -8644349850828287809
+    second: Shokcer Ejector 64x16_7
+  - first:
+      213: 3902166470068436396
+    second: Shokcer Ejector 64x16_8
+  - first:
+      213: 2698184430562780655
+    second: Shokcer Ejector 64x16_9
+  - first:
+      213: -822840680783552570
+    second: Shokcer Ejector 64x16_10
+  - first:
+      213: 6867946657248012169
+    second: Shokcer Ejector 64x16_11
+  - first:
+      213: -1461417192859952328
+    second: Shokcer Ejector 64x16_12
+  - first:
+      213: 4518732068732732730
+    second: Shokcer Ejector 64x16_13
+  - first:
+      213: 8198043839840363797
+    second: Shokcer Ejector 64x16_14
+  - first:
+      213: -9015641881080736687
+    second: Shokcer Ejector 64x16_15
+  - first:
+      213: -1587038879993234724
+    second: Shokcer Ejector 64x16_16
+  - first:
+      213: -5206513508207225685
+    second: Shokcer Ejector 64x16_17
+  - first:
+      213: 589816638020637208
+    second: Shokcer Ejector 64x16_18
+  - first:
+      213: 3146998238125041111
+    second: Shokcer Ejector 64x16_19
+  - first:
+      213: 632816663477985307
+    second: Shokcer Ejector 64x16_20
+  - first:
+      213: 2264293670082186645
+    second: Shokcer Ejector 64x16_21
+  - first:
+      213: -1407423918904324764
+    second: Shokcer Ejector 64x16_22
+  - first:
+      213: 3338227570177416884
+    second: Shokcer Ejector 64x16_23
+  - first:
+      213: 7369592093193371660
+    second: Shokcer Ejector 64x16_24
+  - first:
+      213: -4541885286612025436
+    second: Shokcer Ejector 64x16_25
+  - first:
+      213: -7037061031177066574
+    second: Shokcer Ejector 64x16_26
+  - first:
+      213: 2406778549440830188
+    second: Shokcer Ejector 64x16_27
+  - first:
+      213: 7173356659415204527
+    second: Shokcer Ejector 64x16_28
+  - first:
+      213: -3001558174541000723
+    second: Shokcer Ejector 64x16_29
+  - first:
+      213: -4600941704186720780
+    second: Shokcer Ejector 64x16_30
+  - first:
+      213: -7633438042036486531
+    second: Shokcer Ejector 64x16_31
+  - first:
+      213: -1307826669820135140
+    second: Shokcer Ejector 64x16_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 15
+        width: 9
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5184f961853691720800000000000000
+      internalID: 2817392271884765205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 31
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ab5680dcf5a6460800000000000000
+      internalID: 7235701085537942048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f301d274065c0fa0800000000000000
+      internalID: -5833192840245476361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a908ca46fc5afb0800000000000000
+      internalID: -4637072210010269074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b61cac5bb3d19800800000000000000
+      internalID: 617507425593595569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_5
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4de9a8d59728bc0800000000000000
+      internalID: -3782327294373210901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_6
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 15
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3b3feda3ba05d70800000000000000
+      internalID: 9029905522214810614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 15
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0dd234c99190880800000000000000
+      internalID: -8644349850828287809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_8
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 15
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad7ededab7472630800000000000000
+      internalID: 3902166470068436396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_9
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 15
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe52f2aa170e17520800000000000000
+      internalID: 2698184430562780655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 15
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfd72ba2cea494f0800000000000000
+      internalID: -822840680783552570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9876999c819df4f50800000000000000
+      internalID: 6867946657248012169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_12
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 15
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b1fe65ec008bbe0800000000000000
+      internalID: -1461417192859952328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_13
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 15
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a350bff00e2c5be30800000000000000
+      internalID: 4518732068732732730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_14
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 15
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515a3ceef6d45c170800000000000000
+      internalID: 8198043839840363797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_15
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 19
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1545c00e97102e280800000000000000
+      internalID: -9015641881080736687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_16
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 15
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdaf4411c84b9f9e0800000000000000
+      internalID: -1587038879993234724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_17
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 15
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba41901bc8fbeb7b0800000000000000
+      internalID: -5206513508207225685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_18
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 15
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812d5d77b137f2800800000000000000
+      internalID: 589816638020637208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 15
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5293c59326cab20800000000000000
+      internalID: 3146998238125041111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_20
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 15
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10ad82176738c800800000000000000
+      internalID: 632816663477985307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_21
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 15
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d0a60a8136c6f10800000000000000
+      internalID: 2264293670082186645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_22
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 15
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46dc1511763d77ce0800000000000000
+      internalID: -1407423918904324764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_23
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 15
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be17d3d944c35e20800000000000000
+      internalID: 3338227570177416884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_24
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 15
+        width: 36
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00815686fc064660800000000000000
+      internalID: 7369592093193371660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_25
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 15
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afbae0556bf7f0c0800000000000000
+      internalID: -4541885286612025436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_26
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 15
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b762fda646575e90800000000000000
+      internalID: -7037061031177066574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_27
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 15
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea537cc658966120800000000000000
+      internalID: 2406778549440830188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_28
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 15
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa240ab20e1ec8360800000000000000
+      internalID: 7173356659415204527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_29
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 15
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def40d14eb25856d0800000000000000
+      internalID: -3001558174541000723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_30
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 15
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd8ba995eb2620c0800000000000000
+      internalID: -4600941704186720780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_31
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e36716b84901690800000000000000
+      internalID: -7633438042036486531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shokcer Ejector 64x16_32
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19b69da29aa9dde0800000000000000
+      internalID: -1307826669820135140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shokcer Ejector 64x16_0: 2817392271884765205
+      Shokcer Ejector 64x16_1: 7235701085537942048
+      Shokcer Ejector 64x16_10: -822840680783552570
+      Shokcer Ejector 64x16_11: 6867946657248012169
+      Shokcer Ejector 64x16_12: -1461417192859952328
+      Shokcer Ejector 64x16_13: 4518732068732732730
+      Shokcer Ejector 64x16_14: 8198043839840363797
+      Shokcer Ejector 64x16_15: -9015641881080736687
+      Shokcer Ejector 64x16_16: -1587038879993234724
+      Shokcer Ejector 64x16_17: -5206513508207225685
+      Shokcer Ejector 64x16_18: 589816638020637208
+      Shokcer Ejector 64x16_19: 3146998238125041111
+      Shokcer Ejector 64x16_2: -5833192840245476361
+      Shokcer Ejector 64x16_20: 632816663477985307
+      Shokcer Ejector 64x16_21: 2264293670082186645
+      Shokcer Ejector 64x16_22: -1407423918904324764
+      Shokcer Ejector 64x16_23: 3338227570177416884
+      Shokcer Ejector 64x16_24: 7369592093193371660
+      Shokcer Ejector 64x16_25: -4541885286612025436
+      Shokcer Ejector 64x16_26: -7037061031177066574
+      Shokcer Ejector 64x16_27: 2406778549440830188
+      Shokcer Ejector 64x16_28: 7173356659415204527
+      Shokcer Ejector 64x16_29: -3001558174541000723
+      Shokcer Ejector 64x16_3: -4637072210010269074
+      Shokcer Ejector 64x16_30: -4600941704186720780
+      Shokcer Ejector 64x16_31: -7633438042036486531
+      Shokcer Ejector 64x16_32: -1307826669820135140
+      Shokcer Ejector 64x16_4: 617507425593595569
+      Shokcer Ejector 64x16_5: -3782327294373210901
+      Shokcer Ejector 64x16_6: 9029905522214810614
+      Shokcer Ejector 64x16_7: -8644349850828287809
+      Shokcer Ejector 64x16_8: 3902166470068436396
+      Shokcer Ejector 64x16_9: 2698184430562780655
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

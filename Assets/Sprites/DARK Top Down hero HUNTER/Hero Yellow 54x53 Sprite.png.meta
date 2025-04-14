@@ -1,0 +1,2119 @@
+fileFormatVersion: 2
+guid: 1bec81be4141da340b83ccec6ee34c69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2679851949014303237
+    second: Hero Yellow 54x53 Sprite_0
+  - first:
+      213: 6731203580968459276
+    second: Hero Yellow 54x53 Sprite_1
+  - first:
+      213: 1081815745177498880
+    second: Hero Yellow 54x53 Sprite_2
+  - first:
+      213: -4749299447395875359
+    second: Hero Yellow 54x53 Sprite_3
+  - first:
+      213: 3022638774288131572
+    second: Hero Yellow 54x53 Sprite_4
+  - first:
+      213: 7828161542950343517
+    second: Hero Yellow 54x53 Sprite_5
+  - first:
+      213: 6894257020281011946
+    second: Hero Yellow 54x53 Sprite_6
+  - first:
+      213: -4330448594038632003
+    second: Hero Yellow 54x53 Sprite_7
+  - first:
+      213: 2133790966316401531
+    second: Hero Yellow 54x53 Sprite_8
+  - first:
+      213: -8794876821269978874
+    second: Hero Yellow 54x53 Sprite_9
+  - first:
+      213: 4537484824069514911
+    second: Hero Yellow 54x53 Sprite_10
+  - first:
+      213: 3930499997416066273
+    second: Hero Yellow 54x53 Sprite_11
+  - first:
+      213: 142225262755984428
+    second: Hero Yellow 54x53 Sprite_12
+  - first:
+      213: 5385239291941649435
+    second: Hero Yellow 54x53 Sprite_13
+  - first:
+      213: 1418846671673478365
+    second: Hero Yellow 54x53 Sprite_14
+  - first:
+      213: -5358614323200787790
+    second: Hero Yellow 54x53 Sprite_15
+  - first:
+      213: 8269693273821997776
+    second: Hero Yellow 54x53 Sprite_16
+  - first:
+      213: -2421625059172559284
+    second: Hero Yellow 54x53 Sprite_17
+  - first:
+      213: -1340979114112559339
+    second: Hero Yellow 54x53 Sprite_18
+  - first:
+      213: -3389107640846630983
+    second: Hero Yellow 54x53 Sprite_19
+  - first:
+      213: 1173120274858575763
+    second: Hero Yellow 54x53 Sprite_20
+  - first:
+      213: -5299383453564279127
+    second: Hero Yellow 54x53 Sprite_21
+  - first:
+      213: 7148033800331894374
+    second: Hero Yellow 54x53 Sprite_22
+  - first:
+      213: -301010341931701945
+    second: Hero Yellow 54x53 Sprite_23
+  - first:
+      213: -4567259730507054640
+    second: Hero Yellow 54x53 Sprite_24
+  - first:
+      213: 4667037722367204774
+    second: Hero Yellow 54x53 Sprite_25
+  - first:
+      213: -7236013698504682276
+    second: Hero Yellow 54x53 Sprite_26
+  - first:
+      213: -3153604861635579915
+    second: Hero Yellow 54x53 Sprite_27
+  - first:
+      213: 490528193025348853
+    second: Hero Yellow 54x53 Sprite_28
+  - first:
+      213: 6550999748383791651
+    second: Hero Yellow 54x53 Sprite_29
+  - first:
+      213: -1080171177860091465
+    second: Hero Yellow 54x53 Sprite_30
+  - first:
+      213: -6018780099938728860
+    second: Hero Yellow 54x53 Sprite_31
+  - first:
+      213: 9001767556391551049
+    second: Hero Yellow 54x53 Sprite_32
+  - first:
+      213: 4183011855869775142
+    second: Hero Yellow 54x53 Sprite_33
+  - first:
+      213: -3659547557941180157
+    second: Hero Yellow 54x53 Sprite_34
+  - first:
+      213: -4184422428736332323
+    second: Hero Yellow 54x53 Sprite_35
+  - first:
+      213: -5131372789443887050
+    second: Hero Yellow 54x53 Sprite_36
+  - first:
+      213: -5383406050069484236
+    second: Hero Yellow 54x53 Sprite_37
+  - first:
+      213: 3803076155877262186
+    second: Hero Yellow 54x53 Sprite_38
+  - first:
+      213: 3581781110790738691
+    second: Hero Yellow 54x53 Sprite_39
+  - first:
+      213: -1237392097675935930
+    second: Hero Yellow 54x53 Sprite_40
+  - first:
+      213: -3183198074543212127
+    second: Hero Yellow 54x53 Sprite_41
+  - first:
+      213: -2684914166072749838
+    second: Hero Yellow 54x53 Sprite_42
+  - first:
+      213: -1008729482930465297
+    second: Hero Yellow 54x53 Sprite_43
+  - first:
+      213: 5604559971346923443
+    second: Hero Yellow 54x53 Sprite_44
+  - first:
+      213: -6995638554946260533
+    second: Hero Yellow 54x53 Sprite_45
+  - first:
+      213: 752382721647792636
+    second: Hero Yellow 54x53 Sprite_46
+  - first:
+      213: -1506179037628546866
+    second: Hero Yellow 54x53 Sprite_47
+  - first:
+      213: 6941498637497944785
+    second: Hero Yellow 54x53 Sprite_48
+  - first:
+      213: -5151759578454561831
+    second: Hero Yellow 54x53 Sprite_49
+  - first:
+      213: 88665774297836751
+    second: Hero Yellow 54x53 Sprite_50
+  - first:
+      213: 7028602893653560505
+    second: Hero Yellow 54x53 Sprite_51
+  - first:
+      213: -6398636809224785741
+    second: Hero Yellow 54x53 Sprite_52
+  - first:
+      213: 346995289872738886
+    second: Hero Yellow 54x53 Sprite_53
+  - first:
+      213: 6472817744779975288
+    second: Hero Yellow 54x53 Sprite_54
+  - first:
+      213: -2013388018568727674
+    second: Hero Yellow 54x53 Sprite_55
+  - first:
+      213: 5832762729425443598
+    second: Hero Yellow 54x53 Sprite_56
+  - first:
+      213: 8700573586168279611
+    second: Hero Yellow 54x53 Sprite_57
+  - first:
+      213: 1530793086816661914
+    second: Hero Yellow 54x53 Sprite_58
+  - first:
+      213: 488875559533407735
+    second: Hero Yellow 54x53 Sprite_59
+  - first:
+      213: 8999196304995022569
+    second: Hero Yellow 54x53 Sprite_60
+  - first:
+      213: -5302780721033650119
+    second: Hero Yellow 54x53 Sprite_61
+  - first:
+      213: 7854282022205400620
+    second: Hero Yellow 54x53 Sprite_62
+  - first:
+      213: 2927841019220626009
+    second: Hero Yellow 54x53 Sprite_63
+  - first:
+      213: 45784668844748255
+    second: Hero Yellow 54x53 Sprite_64
+  - first:
+      213: 3584698720748264728
+    second: Hero Yellow 54x53 Sprite_65
+  - first:
+      213: -6332193193101240167
+    second: Hero Yellow 54x53 Sprite_66
+  - first:
+      213: -684465234922616760
+    second: Hero Yellow 54x53 Sprite_67
+  - first:
+      213: 6802974524753794860
+    second: Hero Yellow 54x53 Sprite_68
+  - first:
+      213: 2813744850092582918
+    second: Hero Yellow 54x53 Sprite_69
+  - first:
+      213: -6279428778748508548
+    second: Hero Yellow 54x53 Sprite_70
+  - first:
+      213: -5990923681560913396
+    second: Hero Yellow 54x53 Sprite_71
+  - first:
+      213: -2887736601153213437
+    second: Hero Yellow 54x53 Sprite_72
+  - first:
+      213: -1481035180654136564
+    second: Hero Yellow 54x53 Sprite_73
+  - first:
+      213: -7311785890444950336
+    second: Hero Yellow 54x53 Sprite_74
+  - first:
+      213: 5147515470605840655
+    second: Hero Yellow 54x53 Sprite_75
+  - first:
+      213: 9097358258310729003
+    second: Hero Yellow 54x53 Sprite_76
+  - first:
+      213: 6315513761327481170
+    second: Hero Yellow 54x53 Sprite_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 709
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd3d50d9d04fcad0800000000000000
+      internalID: -2679851949014303237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 709
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c56725ef90a6d50800000000000000
+      internalID: 6731203580968459276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 709
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005bab340b1630f00800000000000000
+      internalID: 1081815745177498880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 656
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e58202c059171eb0800000000000000
+      internalID: -4749299447395875359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 656
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f524c953f192f920800000000000000
+      internalID: 3022638774288131572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 658
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53ddeba27733ac60800000000000000
+      internalID: 7828161542950343517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 656
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeeb71c8b325daf50800000000000000
+      internalID: 6894257020281011946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 656
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1dc3a82f727e3c0800000000000000
+      internalID: -4330448594038632003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 656
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b730a3c149fbc9d10800000000000000
+      internalID: 2133790966316401531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 658
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601e2e8d02252f580800000000000000
+      internalID: -8794876821269978874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 656
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96a368286268fe30800000000000000
+      internalID: 4537484824069514911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 603
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec88a74ce0fb8630800000000000000
+      internalID: 3930499997416066273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 603
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2438a87f1949f100800000000000000
+      internalID: 142225262755984428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 605
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c78a29a963cba40800000000000000
+      internalID: 5385239291941649435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 603
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcc7dfc781c0b310800000000000000
+      internalID: 1418846671673478365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 603
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bafb490aa062a5b0800000000000000
+      internalID: -5358614323200787790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 603
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dae893c73ad3c270800000000000000
+      internalID: 8269693273821997776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 605
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46d5d8c6d8a46ed0800000000000000
+      internalID: -2421625059172559284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 603
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5175a1cb992e36de0800000000000000
+      internalID: -1340979114112559339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 550
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf36c19e8877f0d0800000000000000
+      internalID: -3389107640846630983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 550
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39701cdaca2c74010800000000000000
+      internalID: 1173120274858575763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 552
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6e7b983dec476b0800000000000000
+      internalID: -5299383453564279127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 550
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e94479edae23360800000000000000
+      internalID: 7148033800331894374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 550
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749217750b892dbf0800000000000000
+      internalID: -301010341931701945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 550
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d14e263975dd90c0800000000000000
+      internalID: -4567259730507054640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 551
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad9b0bd416a4c040800000000000000
+      internalID: 4667037722367204774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 550
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd494c611e3849b90800000000000000
+      internalID: -7236013698504682276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 497
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff244c36152c34d0800000000000000
+      internalID: -3153604861635579915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 476
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f41799eac4bec600800000000000000
+      internalID: 490528193025348853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 495
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ad61eff83d9ea50800000000000000
+      internalID: 6550999748383791651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 497
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1b80769067201f0800000000000000
+      internalID: -1080171177860091465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 497
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46446f1536ff87ca0800000000000000
+      internalID: -6018780099938728860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 497
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940ca5d26e3bcec70800000000000000
+      internalID: 9001767556391551049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 497
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d8d50de1b0d0a30800000000000000
+      internalID: 4183011855869775142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 444
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309844a92eca63dc0800000000000000
+      internalID: -3659547557941180157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 439
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd5ef898f1fde5c0800000000000000
+      internalID: -4184422428736332323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 440
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630871b92a3b9c8b0800000000000000
+      internalID: -5131372789443887050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 439
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d6bef48bc4a45b0800000000000000
+      internalID: -5383406050069484236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 442
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6382dc3d9d37c430800000000000000
+      internalID: 3803076155877262186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 444
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303d2e371fa05b130800000000000000
+      internalID: 3581781110790738691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 444
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f76227176e3dee0800000000000000
+      internalID: -1237392097675935930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 390
+        width: 54
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9f42d673203d3d0800000000000000
+      internalID: -3183198074543212127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 389
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0d1de8ac44dbad0800000000000000
+      internalID: -2684914166072749838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 391
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5577731e54002f0800000000000000
+      internalID: -1008729482930465297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 391
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfb186899567cd40800000000000000
+      internalID: 5604559971346923443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 391
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1b66b7ccf7aee90800000000000000
+      internalID: -6995638554946260533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 337
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf155fa5910017a00800000000000000
+      internalID: 752382721647792636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 337
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0c206352af81be0800000000000000
+      internalID: -1506179037628546866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 285
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da4ce0bb38255060800000000000000
+      internalID: 6941498637497944785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 285
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbeff565f54188b0800000000000000
+      internalID: -5151759578454561831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 285
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcce1cc4d010b3100800000000000000
+      internalID: 88665774297836751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 226
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcc087b71d9a8160800000000000000
+      internalID: 7028602893653560505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 226
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0fa6339b97337a0800000000000000
+      internalID: -6398636809224785741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 179
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a299fa066c0d400800000000000000
+      internalID: 346995289872738886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 180
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a9475c17114d950800000000000000
+      internalID: 6472817744779975288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 179
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683fe26b3420f04e0800000000000000
+      internalID: -2013388018568727674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_56
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 179
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b9a829cc222f050800000000000000
+      internalID: 5832762729425443598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_57
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 127
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32f4b93495aeb870800000000000000
+      internalID: 8700573586168279611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_58
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 127
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91b454b3387e3510800000000000000
+      internalID: 1530793086816661914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_59
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdeb513bb5d8c600800000000000000
+      internalID: 488875559533407735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_60
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 73
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e67c3f0c5193ec70800000000000000
+      internalID: 8999196304995022569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_61
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 73
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930eff0970db866b0800000000000000
+      internalID: -5302780721033650119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_62
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 21
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c262a4ba2e3000d60800000000000000
+      internalID: 7854282022205400620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_63
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 21
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a867505e7c1a820800000000000000
+      internalID: 2927841019220626009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_64
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 21
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd66aae9e8a2a000800000000000000
+      internalID: 45784668844748255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_65
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 22
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d5ff47e786fb130800000000000000
+      internalID: 3584698720748264728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_66
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 23
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998dd0c17d78f18a0800000000000000
+      internalID: -6332193193101240167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_67
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 24
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848455bce7a4086f0800000000000000
+      internalID: -684465234922616760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_68
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 25
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c275bfb5945096e50800000000000000
+      internalID: 6802974524753794860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_69
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 26
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6086a56880e6c0720800000000000000
+      internalID: 2813744850092582918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_70
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 26
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76845aabccfad8a0800000000000000
+      internalID: -6279428778748508548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_71
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 26
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a161427a6fbdca0800000000000000
+      internalID: -5990923681560913396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_72
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 26
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c6e537cd2bce7d0800000000000000
+      internalID: -2887736601153213437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_73
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 27
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03f04d995e427be0800000000000000
+      internalID: -1481035180654136564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_74
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 26
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4c05ed871578a90800000000000000
+      internalID: -7311785890444950336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_75
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 25
+        width: 121
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01f94d3c06af6740800000000000000
+      internalID: 5147515470605840655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_76
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 42
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2dc315d22f404e70800000000000000
+      internalID: 9097358258310729003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Yellow 54x53 Sprite_77
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 21
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251040e0e4635a750800000000000000
+      internalID: 6315513761327481170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
