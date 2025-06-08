@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dark Tileset Test small_0: -3090093401624921328
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

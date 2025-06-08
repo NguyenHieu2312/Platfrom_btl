@@ -411,7 +411,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Stamina_backplate_0: 4914365060089452590
+      Stamina_backplate_1: -1423319456700588218
+      Stamina_backplate_2: -7858106622299400859
+      Stamina_backplate_3: 426544570118476561
+      Stamina_backplate_4: 4148705262099091436
+      Stamina_backplate_5: 6427990721000228435
+      Stamina_backplate_6: -4030288941471321394
+      Stamina_backplate_7: -3090058030030439328
+      Stamina_backplate_8: 5437228584891175554
+      Stamina_backplate_9: 1161677440974923634
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

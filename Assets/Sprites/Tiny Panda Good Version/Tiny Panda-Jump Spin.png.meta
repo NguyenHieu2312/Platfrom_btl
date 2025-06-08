@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 64b6feae36f061049b75d101b34f6458
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2581096481096098450
+    second: Tiny Panda-Jump Spin_0
+  - first:
+      213: -6686184309211780533
+    second: Tiny Panda-Jump Spin_1
+  - first:
+      213: -1221728034445889016
+    second: Tiny Panda-Jump Spin_2
+  - first:
+      213: 45939406480915839
+    second: Tiny Panda-Jump Spin_3
+  - first:
+      213: -8586722273621577867
+    second: Tiny Panda-Jump Spin_4
+  - first:
+      213: 8899498283230836113
+    second: Tiny Panda-Jump Spin_5
+  - first:
+      213: 1235305782064743491
+    second: Tiny Panda-Jump Spin_6
+  - first:
+      213: -4674329236259236314
+    second: Tiny Panda-Jump Spin_7
+  - first:
+      213: 3013442449748609108
+    second: Tiny Panda-Jump Spin_8
+  - first:
+      213: 5322574703348677392
+    second: Tiny Panda-Jump Spin_9
+  - first:
+      213: -4324121813109676793
+    second: Tiny Panda-Jump Spin_10
+  - first:
+      213: -648231480661371551
+    second: Tiny Panda-Jump Spin_11
+  - first:
+      213: -6375376402387731138
+    second: Tiny Panda-Jump Spin_12
+  - first:
+      213: -6411871750590158067
+    second: Tiny Panda-Jump Spin_13
+  - first:
+      213: 7573678228673084871
+    second: Tiny Panda-Jump Spin_14
+  - first:
+      213: 3095133320481209739
+    second: Tiny Panda-Jump Spin_15
+  - first:
+      213: -3763400756822904998
+    second: Tiny Panda-Jump Spin_16
+  - first:
+      213: -2494465288179991421
+    second: Tiny Panda-Jump Spin_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiny Panda-Jump Spin_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2926eb60395e1d320800000000000000
+      internalID: 2581096481096098450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Jump Spin_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 3
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a24a2bbc6e533a0800000000000000
+      internalID: -6686184309211780533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Jump Spin_2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80277be53dc8b0fe0800000000000000
+      internalID: -1221728034445889016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Jump Spin_3
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dbc7495a533a000800000000000000
+      internalID: 45939406480915839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Jump Spin_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 3
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fe9d72695d5d880800000000000000
+      internalID: -8586722273621577867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Jump Spin_5
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 4
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1953c2b798e518b70800000000000000
+      internalID: 8899498283230836113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Jump Spin_6
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 16
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34484f85010b42110800000000000000
+      internalID: 1235305782064743491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Jump Spin_7
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 5
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6269b854352712fb0800000000000000
+      internalID: -4674329236259236314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Jump Spin_8
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 5
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458495031f5e1d920800000000000000
+      internalID: 3013442449748609108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Jump Spin_9
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 3
+        width: 53
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bf3931e759dd940800000000000000
+      internalID: 5322574703348677392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Jump Spin_10
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 3
+        width: 51
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70564140f12adf3c0800000000000000
+      internalID: -4324121813109676793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Jump Spin_11
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 3
+        width: 51
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16514fe17e40107f0800000000000000
+      internalID: -648231480661371551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Jump Spin_12
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 3
+        width: 51
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d7542b0fc1687a0800000000000000
+      internalID: -6375376402387731138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Jump Spin_13
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 3
+        width: 51
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b26b84d947407a0800000000000000
+      internalID: -6411871750590158067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Jump Spin_14
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 3
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd3b2fc83c1b1960800000000000000
+      internalID: 7573678228673084871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Jump Spin_15
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 3
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8df1c33b5f14fa20800000000000000
+      internalID: 3095133320481209739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Jump Spin_16
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 3
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f622673f6b5cbc0800000000000000
+      internalID: -3763400756822904998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Jump Spin_17
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 3
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c3d716901e16dd0800000000000000
+      internalID: -2494465288179991421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tiny Panda-Jump Spin_0: 2581096481096098450
+      Tiny Panda-Jump Spin_1: -6686184309211780533
+      Tiny Panda-Jump Spin_10: -4324121813109676793
+      Tiny Panda-Jump Spin_11: -648231480661371551
+      Tiny Panda-Jump Spin_12: -6375376402387731138
+      Tiny Panda-Jump Spin_13: -6411871750590158067
+      Tiny Panda-Jump Spin_14: 7573678228673084871
+      Tiny Panda-Jump Spin_15: 3095133320481209739
+      Tiny Panda-Jump Spin_16: -3763400756822904998
+      Tiny Panda-Jump Spin_17: -2494465288179991421
+      Tiny Panda-Jump Spin_2: -1221728034445889016
+      Tiny Panda-Jump Spin_3: 45939406480915839
+      Tiny Panda-Jump Spin_4: -8586722273621577867
+      Tiny Panda-Jump Spin_5: 8899498283230836113
+      Tiny Panda-Jump Spin_6: 1235305782064743491
+      Tiny Panda-Jump Spin_7: -4674329236259236314
+      Tiny Panda-Jump Spin_8: 3013442449748609108
+      Tiny Panda-Jump Spin_9: 5322574703348677392
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

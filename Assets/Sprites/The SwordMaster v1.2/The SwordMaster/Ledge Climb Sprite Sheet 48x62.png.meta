@@ -486,7 +486,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ledge Climb Sprite Sheet 48x62_0: 7982800089960131280
+      Ledge Climb Sprite Sheet 48x62_1: 5113795156263642850
+      Ledge Climb Sprite Sheet 48x62_10: 7378247364041379109
+      Ledge Climb Sprite Sheet 48x62_11: -1100403656431041693
+      Ledge Climb Sprite Sheet 48x62_12: -1143277431554545346
+      Ledge Climb Sprite Sheet 48x62_2: 7235582235224355276
+      Ledge Climb Sprite Sheet 48x62_3: -4574602128611035770
+      Ledge Climb Sprite Sheet 48x62_4: 7455128575211260483
+      Ledge Climb Sprite Sheet 48x62_5: 3278280664549548997
+      Ledge Climb Sprite Sheet 48x62_6: 3452431994543235726
+      Ledge Climb Sprite Sheet 48x62_7: 692859567470459053
+      Ledge Climb Sprite Sheet 48x62_8: 5492391946248182855
+      Ledge Climb Sprite Sheet 48x62_9: -2113597381717722372
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

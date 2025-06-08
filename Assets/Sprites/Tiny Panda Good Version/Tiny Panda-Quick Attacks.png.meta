@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 52ddb9abc40e23443a3d49509725f366
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 867356275053657487
+    second: Tiny Panda-Quick Attacks_0
+  - first:
+      213: 8207545407617095147
+    second: Tiny Panda-Quick Attacks_1
+  - first:
+      213: 2155053209885288847
+    second: Tiny Panda-Quick Attacks_2
+  - first:
+      213: -1771533300700015671
+    second: Tiny Panda-Quick Attacks_3
+  - first:
+      213: -768418733328051510
+    second: Tiny Panda-Quick Attacks_4
+  - first:
+      213: -6936921024233572172
+    second: Tiny Panda-Quick Attacks_5
+  - first:
+      213: -7041764496294721522
+    second: Tiny Panda-Quick Attacks_6
+  - first:
+      213: -1554444825827330920
+    second: Tiny Panda-Quick Attacks_7
+  - first:
+      213: 4622681760421945482
+    second: Tiny Panda-Quick Attacks_8
+  - first:
+      213: 5779164450820461286
+    second: Tiny Panda-Quick Attacks_9
+  - first:
+      213: -8288621782718429562
+    second: Tiny Panda-Quick Attacks_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiny Panda-Quick Attacks_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3
+        width: 30
+        height: 18
+      alignment: 9
+      pivot: {x: 0.3796762, y: 0.3838981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d774ccfe7790c00800000000000000
+      internalID: 867356275053657487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Quick Attacks_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 3
+        width: 56
+        height: 16
+      alignment: 9
+      pivot: {x: 0.4287556, y: 0.3931334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5d7e2101f07e170800000000000000
+      internalID: 8207545407617095147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Quick Attacks_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 3
+        width: 45
+        height: 16
+      alignment: 9
+      pivot: {x: 0.525491, y: 0.45698345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f892747f97948ed10800000000000000
+      internalID: 2155053209885288847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Quick Attacks_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 3
+        width: 38
+        height: 17
+      alignment: 9
+      pivot: {x: 0.594162, y: 0.41333193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3100859df3a67e0800000000000000
+      internalID: -1771533300700015671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Quick Attacks_4
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 3
+        width: 36
+        height: 17
+      alignment: 9
+      pivot: {x: 0.622072, y: 0.44557744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2d939bb370655f0800000000000000
+      internalID: -768418733328051510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Quick Attacks_5
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 3
+        width: 37
+        height: 15
+      alignment: 9
+      pivot: {x: 0.7625518, y: 0.43832073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b87e93f41b1bbf90800000000000000
+      internalID: -6936921024233572172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Quick Attacks_6
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 0
+        width: 59
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08456edf70a64e90800000000000000
+      internalID: -7041764496294721522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Quick Attacks_7
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 0
+        width: 48
+        height: 19
+      alignment: 9
+      pivot: {x: 0.59230167, y: 0.48772722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8943e9daaa08d6ae0800000000000000
+      internalID: -1554444825827330920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Quick Attacks_8
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 0
+        width: 47
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5843441, y: 0.47668165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80a0afa190172040800000000000000
+      internalID: 4622681760421945482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Quick Attacks_9
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 0
+        width: 44
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5953938, y: 0.47668165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e218bdd277b33050800000000000000
+      internalID: 5779164450820461286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Quick Attacks_10
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 0
+        width: 43
+        height: 20
+      alignment: 9
+      pivot: {x: 0.6247275, y: 0.5116594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686c0835766e8fc80800000000000000
+      internalID: -8288621782718429562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 06723ad2190a1724bae4ae52f64b64f2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tiny Panda-Quick Attacks_0: 867356275053657487
+      Tiny Panda-Quick Attacks_1: 8207545407617095147
+      Tiny Panda-Quick Attacks_10: -8288621782718429562
+      Tiny Panda-Quick Attacks_2: 2155053209885288847
+      Tiny Panda-Quick Attacks_3: -1771533300700015671
+      Tiny Panda-Quick Attacks_4: -768418733328051510
+      Tiny Panda-Quick Attacks_5: -6936921024233572172
+      Tiny Panda-Quick Attacks_6: -7041764496294721522
+      Tiny Panda-Quick Attacks_7: -1554444825827330920
+      Tiny Panda-Quick Attacks_8: 4622681760421945482
+      Tiny Panda-Quick Attacks_9: 5779164450820461286
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

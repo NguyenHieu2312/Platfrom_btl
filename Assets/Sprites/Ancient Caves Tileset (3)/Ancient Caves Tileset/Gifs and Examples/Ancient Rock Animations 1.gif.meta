@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ancient Rock Animations 1_0: -5088326869982150549
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

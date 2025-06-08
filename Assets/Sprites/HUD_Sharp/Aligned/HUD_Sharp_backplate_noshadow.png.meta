@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HUD_Sharp_backplate_noshadow_0: -2788678641056773487
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

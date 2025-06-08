@@ -2,8 +2,6 @@ using System.Collections;
 using Unity.Hierarchy;
 using Unity.VisualScripting;
 using UnityEngine;
-using UnityEngine.InputSystem;
-
 public class PlayerController : MonoBehaviour
 {
     private Rigidbody2D playerRb;
@@ -81,7 +79,7 @@ public class PlayerController : MonoBehaviour
 
         if (!Input.GetButton("Jump") && IsGrounded())
         {
-            anim.SetFloat("Speed", Mathf.Abs(horizontalMove));
+            //anim.SetFloat("Speed", Mathf.Abs(horizontalMove));
         }
     }
 
@@ -99,13 +97,13 @@ public class PlayerController : MonoBehaviour
                 playerRb.linearVelocity = new Vector2(playerRb.linearVelocityX, playerJumpForce);
                 canDoubleJump = !canDoubleJump;
                 //jumpCount++;
-                anim.SetBool("IsDashing", true);
+                //anim.SetBool("IsDashing", true);
             }
         }
 
         if (IsGrounded() && playerRb.linearVelocity.y <= 0)
         {
-            anim.SetBool("IsDashing", false);
+            //anim.SetBool("IsDashing", false);
         }
     }
     
@@ -128,13 +126,13 @@ public class PlayerController : MonoBehaviour
         playerRb.gravityScale = 0f;
         playerRb.linearVelocity = new Vector2(transform.localScale.x * dashForce, 0f);
         dashTrail.emitting = true;
-        anim.SetBool("IsJumping", true);
+        //anim.SetBool("IsJumping", true);
         yield return new WaitForSeconds(dashTime);// dashing
 
         dashTrail.emitting = false;
         playerRb.gravityScale = originalGravity;
         isDashing = false;
-        anim.SetBool("IsJumping", false);
+        //anim.SetBool("IsJumping", false);
         yield return new WaitForSeconds(dashCoolDown);
         canDash = true;
     }

@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      6 BG gears3_0: 5526998831689888476
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

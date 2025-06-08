@@ -268,7 +268,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -282,7 +282,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 24
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -2111,7 +2111,85 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hero Blue 54x53 Sprite_0: -7594756381992487452
+      Hero Blue 54x53 Sprite_1: -2330325161096331608
+      Hero Blue 54x53 Sprite_10: -6007755290187179485
+      Hero Blue 54x53 Sprite_11: 2407686647712399345
+      Hero Blue 54x53 Sprite_12: -5325467938588050983
+      Hero Blue 54x53 Sprite_13: 1854514532696943817
+      Hero Blue 54x53 Sprite_14: -8405582750676241655
+      Hero Blue 54x53 Sprite_15: -7961077638618016238
+      Hero Blue 54x53 Sprite_16: -1529754624891107875
+      Hero Blue 54x53 Sprite_17: -2919652954492508365
+      Hero Blue 54x53 Sprite_18: 1716837762834999585
+      Hero Blue 54x53 Sprite_19: 7082464596319506817
+      Hero Blue 54x53 Sprite_2: 8774710172198560661
+      Hero Blue 54x53 Sprite_20: -3285391913377199936
+      Hero Blue 54x53 Sprite_21: 6359545784760920772
+      Hero Blue 54x53 Sprite_22: 1904136132035371269
+      Hero Blue 54x53 Sprite_23: -4082440195105406405
+      Hero Blue 54x53 Sprite_24: -4503797374931331119
+      Hero Blue 54x53 Sprite_25: -2260464505533267969
+      Hero Blue 54x53 Sprite_26: 3122643739061304694
+      Hero Blue 54x53 Sprite_27: -4331033268924164933
+      Hero Blue 54x53 Sprite_28: -1450775773214717593
+      Hero Blue 54x53 Sprite_29: 4627816059645970792
+      Hero Blue 54x53 Sprite_3: 1862951062775897211
+      Hero Blue 54x53 Sprite_30: -5842513730804131455
+      Hero Blue 54x53 Sprite_31: 6045892502305408278
+      Hero Blue 54x53 Sprite_32: -7578474758955792323
+      Hero Blue 54x53 Sprite_33: 2055154884780447118
+      Hero Blue 54x53 Sprite_34: 3883519573540566152
+      Hero Blue 54x53 Sprite_35: -3703332730911772479
+      Hero Blue 54x53 Sprite_36: -5131329708570683353
+      Hero Blue 54x53 Sprite_37: -5661438821994540484
+      Hero Blue 54x53 Sprite_38: -3370823945846865940
+      Hero Blue 54x53 Sprite_39: -4356262772826579448
+      Hero Blue 54x53 Sprite_4: -8127462076327880668
+      Hero Blue 54x53 Sprite_40: -1373185243718682336
+      Hero Blue 54x53 Sprite_41: 193355767625219013
+      Hero Blue 54x53 Sprite_42: 3443497774327837801
+      Hero Blue 54x53 Sprite_43: 3797910126021678993
+      Hero Blue 54x53 Sprite_44: -5606955138504941316
+      Hero Blue 54x53 Sprite_45: 8656312337463410662
+      Hero Blue 54x53 Sprite_46: 6874302320776154816
+      Hero Blue 54x53 Sprite_47: 1918750070064426755
+      Hero Blue 54x53 Sprite_48: -1968532069536161012
+      Hero Blue 54x53 Sprite_49: 4790398253481404287
+      Hero Blue 54x53 Sprite_5: 2780073747223333777
+      Hero Blue 54x53 Sprite_50: 2133028124513980571
+      Hero Blue 54x53 Sprite_51: 2392719253947055071
+      Hero Blue 54x53 Sprite_52: -6161982534876692699
+      Hero Blue 54x53 Sprite_53: -1594922210322089653
+      Hero Blue 54x53 Sprite_54: 4648956873818622209
+      Hero Blue 54x53 Sprite_55: 8586353985590468008
+      Hero Blue 54x53 Sprite_56: 5028262017075068996
+      Hero Blue 54x53 Sprite_57: -553215164440247269
+      Hero Blue 54x53 Sprite_58: -8078319776241225621
+      Hero Blue 54x53 Sprite_59: 6387712455395664069
+      Hero Blue 54x53 Sprite_6: 1377483440927267630
+      Hero Blue 54x53 Sprite_60: 7459116922446158688
+      Hero Blue 54x53 Sprite_61: -8923672633730552366
+      Hero Blue 54x53 Sprite_62: -3643169380311770051
+      Hero Blue 54x53 Sprite_63: 122375383339985482
+      Hero Blue 54x53 Sprite_64: -1513980591275244218
+      Hero Blue 54x53 Sprite_65: 7159907766270496556
+      Hero Blue 54x53 Sprite_66: 4588521563148612021
+      Hero Blue 54x53 Sprite_67: -3888061873879517036
+      Hero Blue 54x53 Sprite_68: 8588123278129304430
+      Hero Blue 54x53 Sprite_69: -5933576144405869160
+      Hero Blue 54x53 Sprite_7: -6239874490087065292
+      Hero Blue 54x53 Sprite_70: -394084405973703377
+      Hero Blue 54x53 Sprite_71: -2947672916759403307
+      Hero Blue 54x53 Sprite_72: -8170070561098848228
+      Hero Blue 54x53 Sprite_73: -2393300023447564130
+      Hero Blue 54x53 Sprite_74: 7103600342136975152
+      Hero Blue 54x53 Sprite_75: 4512593818654358633
+      Hero Blue 54x53 Sprite_76: -3977408507216114160
+      Hero Blue 54x53 Sprite_77: 7037993559130975816
+      Hero Blue 54x53 Sprite_8: -7054384726878932331
+      Hero Blue 54x53 Sprite_9: 6993476167307706031
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -436,7 +436,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ancient Rock Animations 36x51_0: 6458738061369641847
+      Ancient Rock Animations 36x51_1: 513733667429123476
+      Ancient Rock Animations 36x51_10: -7222693908794610564
+      Ancient Rock Animations 36x51_2: 3592956717919913514
+      Ancient Rock Animations 36x51_3: -46043490531199608
+      Ancient Rock Animations 36x51_4: -2414955401045183022
+      Ancient Rock Animations 36x51_5: 8699651700179254532
+      Ancient Rock Animations 36x51_6: -223024514339821407
+      Ancient Rock Animations 36x51_7: 2580453378791293622
+      Ancient Rock Animations 36x51_8: -4431571780057703377
+      Ancient Rock Animations 36x51_9: -4464126888215146742
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

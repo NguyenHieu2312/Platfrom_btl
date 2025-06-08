@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: c40d0e91a47d39c4a86b84e9fb75b493
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3681704272316571070
+    second: Tiny Panda-Heli Slam_0
+  - first:
+      213: 9027237489778547457
+    second: Tiny Panda-Heli Slam_1
+  - first:
+      213: 8882913090261527062
+    second: Tiny Panda-Heli Slam_2
+  - first:
+      213: 5438931689768993850
+    second: Tiny Panda-Heli Slam_3
+  - first:
+      213: -964612742585264140
+    second: Tiny Panda-Heli Slam_4
+  - first:
+      213: 6656926729084243693
+    second: Tiny Panda-Heli Slam_5
+  - first:
+      213: -1805087709825726038
+    second: Tiny Panda-Heli Slam_6
+  - first:
+      213: -7409516667955429254
+    second: Tiny Panda-Heli Slam_7
+  - first:
+      213: 2926108377897207556
+    second: Tiny Panda-Heli Slam_8
+  - first:
+      213: -7072386320983150151
+    second: Tiny Panda-Heli Slam_9
+  - first:
+      213: 6707129301218479565
+    second: Tiny Panda-Heli Slam_10
+  - first:
+      213: 42659066011357439
+    second: Tiny Panda-Heli Slam_11
+  - first:
+      213: 6081827775544465555
+    second: Tiny Panda-Heli Slam_12
+  - first:
+      213: 2379870690939102290
+    second: Tiny Panda-Heli Slam_13
+  - first:
+      213: 1286268294189656864
+    second: Tiny Panda-Heli Slam_14
+  - first:
+      213: 4254043800996808728
+    second: Tiny Panda-Heli Slam_15
+  - first:
+      213: 1556684482072045774
+    second: Tiny Panda-Heli Slam_16
+  - first:
+      213: -3045225782013349250
+    second: Tiny Panda-Heli Slam_17
+  - first:
+      213: -623240214521803466
+    second: Tiny Panda-Heli Slam_18
+  - first:
+      213: -699512903744283478
+    second: Tiny Panda-Heli Slam_19
+  - first:
+      213: 7071434579407013509
+    second: Tiny Panda-Heli Slam_20
+  - first:
+      213: 502495793216356949
+    second: Tiny Panda-Heli Slam_21
+  - first:
+      213: -93204894458329498
+    second: Tiny Panda-Heli Slam_22
+  - first:
+      213: 8034560818520130487
+    second: Tiny Panda-Heli Slam_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiny Panda-Heli Slam_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd9777778a081330800000000000000
+      internalID: 3681704272316571070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Heli Slam_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bd6592ba0374d70800000000000000
+      internalID: 9027237489778547457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Heli Slam_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 3
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61aa4b35462764b70800000000000000
+      internalID: 8882913090261527062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Heli Slam_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 3
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34cb4e1e87fa7b40800000000000000
+      internalID: 5438931689768993850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Heli Slam_4
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 3
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7d36442d10d92f0800000000000000
+      internalID: -964612742585264140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Heli Slam_5
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 3
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee8ed61797226c50800000000000000
+      internalID: 6656926729084243693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Heli Slam_6
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa90a6baa4a03f6e0800000000000000
+      internalID: -1805087709825726038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Heli Slam_7
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a704e2909db1c2990800000000000000
+      internalID: -7409516667955429254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Heli Slam_8
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 3
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4078bd60110ab9820800000000000000
+      internalID: 2926108377897207556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Heli Slam_9
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1b777bc16d9dd90800000000000000
+      internalID: -7072386320983150151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Heli Slam_10
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 17
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdcdb54092841d50800000000000000
+      internalID: 6707129301218479565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Heli Slam_11
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 3
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff09e0cc13e879000800000000000000
+      internalID: 42659066011357439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Heli Slam_12
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 3
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3989e62932ef66450800000000000000
+      internalID: 6081827775544465555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Heli Slam_13
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 3
+        width: 88
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254e9c8c8cff60120800000000000000
+      internalID: 2379870690939102290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Heli Slam_14
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 3
+        width: 90
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ba509d23eb9d110800000000000000
+      internalID: 1286268294189656864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Heli Slam_15
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 3
+        width: 92
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8180e515c46690b30800000000000000
+      internalID: 4254043800996808728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Heli Slam_16
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 3
+        width: 94
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8644de9447a9510800000000000000
+      internalID: 1556684482072045774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Heli Slam_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 3
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72bb3a194f2db5d0800000000000000
+      internalID: -3045225782013349250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Heli Slam_18
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 9
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d80b3b35ec957f0800000000000000
+      internalID: -623240214521803466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Heli Slam_19
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 10
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac158068b4da46f0800000000000000
+      internalID: -699512903744283478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Heli Slam_20
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 3
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58608fda848c22260800000000000000
+      internalID: 7071434579407013509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Heli Slam_21
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 3
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5520ac7f24939f600800000000000000
+      internalID: 502495793216356949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Heli Slam_22
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 3
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666cb7e64aed4bef0800000000000000
+      internalID: -93204894458329498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda-Heli Slam_23
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 3
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b30a2ade7e708f60800000000000000
+      internalID: 8034560818520130487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tiny Panda-Heli Slam_0: 3681704272316571070
+      Tiny Panda-Heli Slam_1: 9027237489778547457
+      Tiny Panda-Heli Slam_10: 6707129301218479565
+      Tiny Panda-Heli Slam_11: 42659066011357439
+      Tiny Panda-Heli Slam_12: 6081827775544465555
+      Tiny Panda-Heli Slam_13: 2379870690939102290
+      Tiny Panda-Heli Slam_14: 1286268294189656864
+      Tiny Panda-Heli Slam_15: 4254043800996808728
+      Tiny Panda-Heli Slam_16: 1556684482072045774
+      Tiny Panda-Heli Slam_17: -3045225782013349250
+      Tiny Panda-Heli Slam_18: -623240214521803466
+      Tiny Panda-Heli Slam_19: -699512903744283478
+      Tiny Panda-Heli Slam_2: 8882913090261527062
+      Tiny Panda-Heli Slam_20: 7071434579407013509
+      Tiny Panda-Heli Slam_21: 502495793216356949
+      Tiny Panda-Heli Slam_22: -93204894458329498
+      Tiny Panda-Heli Slam_23: 8034560818520130487
+      Tiny Panda-Heli Slam_3: 5438931689768993850
+      Tiny Panda-Heli Slam_4: -964612742585264140
+      Tiny Panda-Heli Slam_5: 6656926729084243693
+      Tiny Panda-Heli Slam_6: -1805087709825726038
+      Tiny Panda-Heli Slam_7: -7409516667955429254
+      Tiny Panda-Heli Slam_8: 2926108377897207556
+      Tiny Panda-Heli Slam_9: -7072386320983150151
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

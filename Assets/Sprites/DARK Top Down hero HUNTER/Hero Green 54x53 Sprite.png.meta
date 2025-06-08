@@ -268,7 +268,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -282,7 +282,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 24
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -2111,7 +2111,85 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hero Green 54x53 Sprite_0: 8712840831458213795
+      Hero Green 54x53 Sprite_1: 4212433876178951445
+      Hero Green 54x53 Sprite_10: -8072474663590587015
+      Hero Green 54x53 Sprite_11: -2747661017069188628
+      Hero Green 54x53 Sprite_12: -7442391984195203166
+      Hero Green 54x53 Sprite_13: -679958824170346965
+      Hero Green 54x53 Sprite_14: -3741299435865733342
+      Hero Green 54x53 Sprite_15: 8390542819416760236
+      Hero Green 54x53 Sprite_16: -5397694740872997897
+      Hero Green 54x53 Sprite_17: 699150915352986938
+      Hero Green 54x53 Sprite_18: 4198459668596663885
+      Hero Green 54x53 Sprite_19: -4639649259720531539
+      Hero Green 54x53 Sprite_2: -3422970925971509016
+      Hero Green 54x53 Sprite_20: -1179190720020764956
+      Hero Green 54x53 Sprite_21: -6956136257960665768
+      Hero Green 54x53 Sprite_22: -6846932182542517093
+      Hero Green 54x53 Sprite_23: 5733707957823474165
+      Hero Green 54x53 Sprite_24: -8396469634703368932
+      Hero Green 54x53 Sprite_25: -9044302955377967531
+      Hero Green 54x53 Sprite_26: 7606304025895407666
+      Hero Green 54x53 Sprite_27: -2802787685125867771
+      Hero Green 54x53 Sprite_28: -6393232600172704320
+      Hero Green 54x53 Sprite_29: -2197354336384486616
+      Hero Green 54x53 Sprite_3: -427240077118020016
+      Hero Green 54x53 Sprite_30: 921259469184936875
+      Hero Green 54x53 Sprite_31: 8965007458008696981
+      Hero Green 54x53 Sprite_32: -2935768427750172048
+      Hero Green 54x53 Sprite_33: 1578359924374352253
+      Hero Green 54x53 Sprite_34: 8389404764025066463
+      Hero Green 54x53 Sprite_35: 931238857765550272
+      Hero Green 54x53 Sprite_36: 7875706935217343441
+      Hero Green 54x53 Sprite_37: 5450149358055314359
+      Hero Green 54x53 Sprite_38: 3800039819710093882
+      Hero Green 54x53 Sprite_39: 248763981887403505
+      Hero Green 54x53 Sprite_4: -5034704402192450593
+      Hero Green 54x53 Sprite_40: -2418085352559177444
+      Hero Green 54x53 Sprite_41: 6159418151627651605
+      Hero Green 54x53 Sprite_42: -553063425133650130
+      Hero Green 54x53 Sprite_43: -3847466828316609559
+      Hero Green 54x53 Sprite_44: -8865738781044854388
+      Hero Green 54x53 Sprite_45: -4257801652013068489
+      Hero Green 54x53 Sprite_46: -7228097485717526610
+      Hero Green 54x53 Sprite_47: 8624430762086792799
+      Hero Green 54x53 Sprite_48: 7515795636709498201
+      Hero Green 54x53 Sprite_49: -4800146721250904886
+      Hero Green 54x53 Sprite_5: 758735434133356170
+      Hero Green 54x53 Sprite_50: -965267922229419987
+      Hero Green 54x53 Sprite_51: 1061287583696373489
+      Hero Green 54x53 Sprite_52: 122640422294617172
+      Hero Green 54x53 Sprite_53: 3657913215365279333
+      Hero Green 54x53 Sprite_54: -5742167792766143622
+      Hero Green 54x53 Sprite_55: -6121776489220398388
+      Hero Green 54x53 Sprite_56: 765784680402412133
+      Hero Green 54x53 Sprite_57: -6096730481392309553
+      Hero Green 54x53 Sprite_58: 2248407627300454229
+      Hero Green 54x53 Sprite_59: 1977727714857518358
+      Hero Green 54x53 Sprite_6: 856608440894712444
+      Hero Green 54x53 Sprite_60: 1773812288758282876
+      Hero Green 54x53 Sprite_61: -1200712617036087242
+      Hero Green 54x53 Sprite_62: 66003785328698628
+      Hero Green 54x53 Sprite_63: 3889392200010315223
+      Hero Green 54x53 Sprite_64: -8230831898341687999
+      Hero Green 54x53 Sprite_65: 77105034566246600
+      Hero Green 54x53 Sprite_66: 6624107693910133755
+      Hero Green 54x53 Sprite_67: -5347825695799922794
+      Hero Green 54x53 Sprite_68: 1657540583941334118
+      Hero Green 54x53 Sprite_69: -8918522348166349259
+      Hero Green 54x53 Sprite_7: 125788519268006844
+      Hero Green 54x53 Sprite_70: 9084205723000067552
+      Hero Green 54x53 Sprite_71: -8629139644062441716
+      Hero Green 54x53 Sprite_72: -3052432368111070666
+      Hero Green 54x53 Sprite_73: -7350547711860034327
+      Hero Green 54x53 Sprite_74: -5960245666276013659
+      Hero Green 54x53 Sprite_75: 1033171694704401064
+      Hero Green 54x53 Sprite_76: 1763812176480481770
+      Hero Green 54x53 Sprite_77: -3883701346308131279
+      Hero Green 54x53 Sprite_8: -6339330149988512295
+      Hero Green 54x53 Sprite_9: -8313678793613010651
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

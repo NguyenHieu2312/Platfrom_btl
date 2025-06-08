@@ -268,7 +268,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -282,7 +282,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 24
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -2111,7 +2111,85 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hero Yellow 54x53 Sprite_0: -2679851949014303237
+      Hero Yellow 54x53 Sprite_1: 6731203580968459276
+      Hero Yellow 54x53 Sprite_10: 4537484824069514911
+      Hero Yellow 54x53 Sprite_11: 3930499997416066273
+      Hero Yellow 54x53 Sprite_12: 142225262755984428
+      Hero Yellow 54x53 Sprite_13: 5385239291941649435
+      Hero Yellow 54x53 Sprite_14: 1418846671673478365
+      Hero Yellow 54x53 Sprite_15: -5358614323200787790
+      Hero Yellow 54x53 Sprite_16: 8269693273821997776
+      Hero Yellow 54x53 Sprite_17: -2421625059172559284
+      Hero Yellow 54x53 Sprite_18: -1340979114112559339
+      Hero Yellow 54x53 Sprite_19: -3389107640846630983
+      Hero Yellow 54x53 Sprite_2: 1081815745177498880
+      Hero Yellow 54x53 Sprite_20: 1173120274858575763
+      Hero Yellow 54x53 Sprite_21: -5299383453564279127
+      Hero Yellow 54x53 Sprite_22: 7148033800331894374
+      Hero Yellow 54x53 Sprite_23: -301010341931701945
+      Hero Yellow 54x53 Sprite_24: -4567259730507054640
+      Hero Yellow 54x53 Sprite_25: 4667037722367204774
+      Hero Yellow 54x53 Sprite_26: -7236013698504682276
+      Hero Yellow 54x53 Sprite_27: -3153604861635579915
+      Hero Yellow 54x53 Sprite_28: 490528193025348853
+      Hero Yellow 54x53 Sprite_29: 6550999748383791651
+      Hero Yellow 54x53 Sprite_3: -4749299447395875359
+      Hero Yellow 54x53 Sprite_30: -1080171177860091465
+      Hero Yellow 54x53 Sprite_31: -6018780099938728860
+      Hero Yellow 54x53 Sprite_32: 9001767556391551049
+      Hero Yellow 54x53 Sprite_33: 4183011855869775142
+      Hero Yellow 54x53 Sprite_34: -3659547557941180157
+      Hero Yellow 54x53 Sprite_35: -4184422428736332323
+      Hero Yellow 54x53 Sprite_36: -5131372789443887050
+      Hero Yellow 54x53 Sprite_37: -5383406050069484236
+      Hero Yellow 54x53 Sprite_38: 3803076155877262186
+      Hero Yellow 54x53 Sprite_39: 3581781110790738691
+      Hero Yellow 54x53 Sprite_4: 3022638774288131572
+      Hero Yellow 54x53 Sprite_40: -1237392097675935930
+      Hero Yellow 54x53 Sprite_41: -3183198074543212127
+      Hero Yellow 54x53 Sprite_42: -2684914166072749838
+      Hero Yellow 54x53 Sprite_43: -1008729482930465297
+      Hero Yellow 54x53 Sprite_44: 5604559971346923443
+      Hero Yellow 54x53 Sprite_45: -6995638554946260533
+      Hero Yellow 54x53 Sprite_46: 752382721647792636
+      Hero Yellow 54x53 Sprite_47: -1506179037628546866
+      Hero Yellow 54x53 Sprite_48: 6941498637497944785
+      Hero Yellow 54x53 Sprite_49: -5151759578454561831
+      Hero Yellow 54x53 Sprite_5: 7828161542950343517
+      Hero Yellow 54x53 Sprite_50: 88665774297836751
+      Hero Yellow 54x53 Sprite_51: 7028602893653560505
+      Hero Yellow 54x53 Sprite_52: -6398636809224785741
+      Hero Yellow 54x53 Sprite_53: 346995289872738886
+      Hero Yellow 54x53 Sprite_54: 6472817744779975288
+      Hero Yellow 54x53 Sprite_55: -2013388018568727674
+      Hero Yellow 54x53 Sprite_56: 5832762729425443598
+      Hero Yellow 54x53 Sprite_57: 8700573586168279611
+      Hero Yellow 54x53 Sprite_58: 1530793086816661914
+      Hero Yellow 54x53 Sprite_59: 488875559533407735
+      Hero Yellow 54x53 Sprite_6: 6894257020281011946
+      Hero Yellow 54x53 Sprite_60: 8999196304995022569
+      Hero Yellow 54x53 Sprite_61: -5302780721033650119
+      Hero Yellow 54x53 Sprite_62: 7854282022205400620
+      Hero Yellow 54x53 Sprite_63: 2927841019220626009
+      Hero Yellow 54x53 Sprite_64: 45784668844748255
+      Hero Yellow 54x53 Sprite_65: 3584698720748264728
+      Hero Yellow 54x53 Sprite_66: -6332193193101240167
+      Hero Yellow 54x53 Sprite_67: -684465234922616760
+      Hero Yellow 54x53 Sprite_68: 6802974524753794860
+      Hero Yellow 54x53 Sprite_69: 2813744850092582918
+      Hero Yellow 54x53 Sprite_7: -4330448594038632003
+      Hero Yellow 54x53 Sprite_70: -6279428778748508548
+      Hero Yellow 54x53 Sprite_71: -5990923681560913396
+      Hero Yellow 54x53 Sprite_72: -2887736601153213437
+      Hero Yellow 54x53 Sprite_73: -1481035180654136564
+      Hero Yellow 54x53 Sprite_74: -7311785890444950336
+      Hero Yellow 54x53 Sprite_75: 5147515470605840655
+      Hero Yellow 54x53 Sprite_76: 9097358258310729003
+      Hero Yellow 54x53 Sprite_77: 6315513761327481170
+      Hero Yellow 54x53 Sprite_8: 2133790966316401531
+      Hero Yellow 54x53 Sprite_9: -8794876821269978874
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
